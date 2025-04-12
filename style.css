@@ -228,7 +228,7 @@ canvas {
 .main-section .hero-section .hero-section-text .name-logo {
   position: absolute;
   top: 0;
-  left: 50%;
+  left: 47%;
   width: 500px;
   -webkit-transform: translate(-50%, -28%);
           transform: translate(-50%, -28%);
